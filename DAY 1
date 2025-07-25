@@ -1,0 +1,67 @@
+DAY 1
+**Ethical Hacking
+Ethical Hacking is the process of legally breaking into computers and devices to test an organization’s defenses. Ethical hackers are also called white-hat hackers.
+
+They help identify security weaknesses.
+
+Conduct penetration testing.
+
+Work with permission from the organization.
+
+Aim to prevent data breaches and cyber attacks.
+
+**Types of Hackers
+White Hat Hackers (Ethical Hackers)
+
+Use skills legally to protect systems.
+
+Hired by organizations.
+
+Black Hat Hackers
+
+Use skills for illegal activities.
+
+Steal data, disrupt systems.
+
+Grey Hat Hackers
+
+Work without permission but don’t have malicious intent.
+
+Often expose vulnerabilities publicly.
+
+Script Kiddies
+
+Inexperienced hackers using pre-written tools/scripts.
+
+Often hack for fun or attention.
+
+Hacktivists
+
+Hack for political or social causes.
+
+Example: Anonymous.
+
+State-sponsored Hackers
+
+Employed by governments for cyber warfare or espionage.
+
+**CIA Triad
+The CIA Triad is a model for information security policies.
+
+Confidentiality
+
+Protecting data from unauthorized access.
+
+Example: Encryption, passwords.
+
+Integrity
+
+Ensuring data is accurate and unaltered.
+
+Example: Hashing, checksums.
+
+Availability
+
+Ensuring authorized users have access when needed.
+
+Example: Backup systems, DDoS protection.
